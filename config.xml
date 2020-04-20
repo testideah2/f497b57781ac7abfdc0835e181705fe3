@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "http://dina2020.tilda.ws/"
+        id          = "84FF5-9762E-04C32-34345-4DF39"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. АНКЕТА ПОКУПАТЕЛЯ</name>
+    <name>ТЕСТ. АНКЕТА</name>
 
     <description>
         http://dina2020.tilda.ws/
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
+    <preference name="SplashScreenSpinnerColor" value="#FFFFFF" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
